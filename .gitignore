@@ -1,6 +1,13 @@
+# Python cache
 __pycache__/
 *.pyc
-.env/
-.vscode/
-./data/
+
+# Environment files
+.env
 *.env
+
+# Editor settings
+.vscode/
+
+# Local data (large files, vectorstores, etc.)
+data/
