@@ -1,0 +1,139 @@
+{
+  "query": "Under what conditions may an operator defer a defect under the MEL when the aircraft is away from base and no certifying staff are available?",
+  "response": {
+    "category": "continuing_airworthiness",
+    "language": "en",
+    "results": [
+      {
+        "text": "M.A.403   Aircraft defects Regulation (EU) 2021/1963 (a) Any aircraft defect that hazards seriously the flight safety shall be rectified before further flight. (b) Only the certifying staff referred to in point  M.A.801(b)(1)  or in  Subpart F  of this Annex or in  Annex II (P a rt-145)  or in  Annex  Vd  (Part-CAO) , or the person authorised in accordance with point  M.A.801(c)  of this Annex can decide, using maintenance data referred to in point  M.A.401  of this Annex, whether an aircraft defect hazards seriously the flight safety and therefore decide when and which rectification action shall be taken before further flight and which defect rectification can be deferred. However, this does not apply when the MEL is used by the pilot or by the certifying staff.   (c) Any aircraft defect that would not hazard seriously the flight safety shall be rectified as soon as practicable, after the date the aircraft defect was first identified and within any limits specified in the maintenance data or the MEL. (d) Any defect not rectified before flight shall be recorded in the aircraft continuing airworthiness record system referred to in point  M.A.305  or, if applicable in the aircraft",
+        "metadata": {
+          "sdt-id": "1440787593",
+          "source-title": "M.A.403 Aircraft defects",
+          "ERulesId": "ERULES-1963177438-702",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "Maintenance;",
+          "AircraftUse": "Used by licensed air carrier (LAC);Used by private operator or for limited operations;Used for commercial operations other than by licensed air carrier (LAC), or commercial approved training organisation (ATO);",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA);Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "",
+          "ApplicabilityDate": "2 December, 2021",
+          "EntryIntoForceDate": "2 December, 2021",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "Maintenance data; Minimum equipment list (MEL);",
+          "RegistryState": "EU-registered;",
+          "RegulatedEntity": "Approved maintenance organisation (AMO);Certifying staff;",
+          "RegulatorySource": "Regulation (EU) 2021/1963",
+          "RegulatorySubject": "Part-M;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "IR (Implementing rule);",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "paragraph should explain in sufficient detail the MEL application procedure, because the MEL is a tool that the personnel involved in continuing airworthiness and maintenance have to be familiar with in order to ensure proper and efficient communication with the crew in case of a defect rectification to be deferred.) (This paragraph does not apply to those types of aircraft that do not have an MEL.) (1) General (This paragraph should explain broadly what an MEL document is. The information could be extracted from the aircraft flight manual.) (2) MEL categories (Where an owner/operator uses a classification system placing a time constraint on the rectification of defects, it should be explained here what are the general  principles of such a system. It is essential for the personnel involved in continuing airworthiness and maintenance to be familiar with it for the management of the MEL’s deferred defect rectification.) (3) Application (This paragraph should explain how the continuing airworthiness and maintenance personnel make the flight crew aware of an MEL limitation. This should refer to the technical log procedures.) (4) Acceptance by the crew  (This paragraph should explain",
+        "metadata": {
+          "sdt-id": "996123535",
+          "source-title": "Appendix V to AMC1 M.A.704 — Continuing airworthiness management exposition",
+          "ERulesId": "ERULES-1963177438-1033",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "Continuing airworthiness management;",
+          "AircraftUse": "Used by licensed air carrier (LAC);Used by private operator or for limited operations;",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA);Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "",
+          "ApplicabilityDate": "24 March, 2020",
+          "EntryIntoForceDate": "14 March, 2020",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "EU-registered;",
+          "RegulatedEntity": "Continuing airworthiness management organisation (CAMO);",
+          "RegulatorySource": "ED Decision 2020/002/R",
+          "RegulatorySubject": "Part-M;Part-M Subpart G;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "AMC to IR (Acceptable means of compliance to implementing rule);",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "Release to service after rectification of deferred defects should be permitted as long as the task is listed above. 3. The requirement  of having appropriate aircraft- rated certifying staff qualified as category B1, B2,  B2L, B3, L,  as appropriate, in the case of aircraft line maintenance does not imply that the organisation must have B1, B2 , B2L, B3 and L  personnel at every line station. The MOE should have a procedure on how to deal with defects requiring  those categories of  certifying staff. 4. The competent authority may accept that in the case of aircraft line maintenance an organisation has only B1, B2 , B2L,  B3 or L  certifying staff, as appropriate, provided that the competent authority is satisfied that the scope of work, as defined in the  MOE , does not need the availability of all  those categories of  certifying staff. Special attention should be taken to clearly limit the scope of scheduled and non-scheduled line maintenance (defect rectification) to only those tasks that can be certified by the available  category of  certifying staff.",
+        "metadata": {
+          "sdt-id": "-676882828",
+          "source-title": "AMC 145.A.30(g) Personnel requirements",
+          "ERulesId": "",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "Maintenance;",
+          "AircraftUse": "Used by licensed air carrier (LAC);Used for commercial operations other than by licensed air carrier (LAC), or commercial approved training organisation (ATO);Used by private operator or for limited operations;",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA);Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "",
+          "ApplicabilityDate": "18 December, 2015",
+          "EntryIntoForceDate": "18 December, 2015",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": " Line; Authorisation; Qualification; Exposition; Training; Certificate of release to service (CRS);",
+          "RegistryState": "EU-registered;Non-EU registered;",
+          "RegulatedEntity": "Approved maintenance organisation (AMO);Certifying staff;",
+          "RegulatorySource": "ED Decision 2019/009/R",
+          "RegulatorySubject": "Part-145;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "AMC to IR (Acceptable means of compliance to implementing rule);",
+          "ParentIR": "145.A.30(k) Airworthiness review staff qualification",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "and shall also assess the impact of any work not carried out, with a view to either requiring its accomplishment or agreeing with the operator to defer such work to another specified check or time limit.  2. in the case of base maintenance of aircraft other than complex motor-powered aircraft, have one of the following:  (i) appropriate aircraft-rated certifying staff, qualified as category B1, B2, B2L, B3 and L, as appropriate, in accordance with  Annex III (Part-66)  and point  145.A.35 ;  (ii) appropriate aircraft-rated certifying staff, qualified in category C and assisted by support staff, as set out in point  145.A.35(a)(i) .",
+        "metadata": {
+          "sdt-id": "8802718",
+          "source-title": "145.A.30(h) Base maintenance certifying staff qualification",
+          "ERulesId": "ERULES-1963177438-241",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "Maintenance;",
+          "AircraftUse": "Used by licensed air carrier (LAC);Used by private operator or for limited operations;Used for commercial operations other than by licensed air carrier (LAC), or commercial approved training organisation (ATO);",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA);Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "",
+          "ApplicabilityDate": "5 March, 2019",
+          "EntryIntoForceDate": "5 September, 2018",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "Annex 6/Part-I/Chapter 8 Aeroplane maintenance/8.7 Approved maintenance organisation;",
+          "Keywords": "Authorisation; Support staff; Certificate of release to service (CRS);",
+          "RegistryState": "EU-registered;Non-EU registered;",
+          "RegulatedEntity": "Approved maintenance organisation (AMO);Certifying staff;",
+          "RegulatorySource": "Regulation (EU) 2018/1142",
+          "RegulatorySubject": "Part-145;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "IR (Implementing rule);",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "refer to the technical log procedures.) (4) Acceptance by the crew  (This paragraph should explain how the crew notifies their acceptance or non-acceptance of the MEL deferment in the technical log.) (5) Management of the MEL time limits (Once a technical limitation is accepted by the crew, the defect must be rectified within the time limit specified in the MEL. There should be a system to ensure that the defect will actually be rectified before that time limit. This system could be the aircraft technical log for those (small) operators that use it as a planning document, or a specific follow-up system where control of the maintenance time limit is ensured by other means such as data processed planning systems.) (6) MEL time limitation overrun (The competent authority may allow the owner/operator to overrun the MEL time limitation under specific conditions. Where applicable, this paragraph should describe the specific duties and responsibilities with regard to controlling these extensions.)  1.2 Aircraft maintenance programme — development and amendment a) General (This introductory paragraph should recall that the purpose of a maintenance programme is to provide maintenance",
+        "metadata": {
+          "sdt-id": "996123535",
+          "source-title": "Appendix V to AMC1 M.A.704 — Continuing airworthiness management exposition",
+          "ERulesId": "ERULES-1963177438-1033",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "Continuing airworthiness management;",
+          "AircraftUse": "Used by licensed air carrier (LAC);Used by private operator or for limited operations;",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA);Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "",
+          "ApplicabilityDate": "24 March, 2020",
+          "EntryIntoForceDate": "14 March, 2020",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "EU-registered;",
+          "RegulatedEntity": "Continuing airworthiness management organisation (CAMO);",
+          "RegulatorySource": "ED Decision 2020/002/R",
+          "RegulatorySubject": "Part-M;Part-M Subpart G;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "AMC to IR (Acceptable means of compliance to implementing rule);",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      }
+    ]
+  }
+}

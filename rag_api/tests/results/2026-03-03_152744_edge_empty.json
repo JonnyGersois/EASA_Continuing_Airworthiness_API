@@ -1,0 +1,6 @@
+{
+  "query": "",
+  "response": {
+    "error": "Missing 'query' field"
+  }
+}

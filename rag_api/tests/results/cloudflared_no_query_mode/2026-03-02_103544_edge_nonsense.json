@@ -1,0 +1,139 @@
+{
+  "query": "asdfghjk",
+  "response": {
+    "category": "continuing_airworthiness",
+    "language": "en",
+    "results": [
+      {
+        "text": "EASA  eRules EASA  eRules : aviation rules for the 21st century Rules are the core of the EU civil aviation system. The aim of the  EASA  eRules  project is to make them accessible to stakeholders in an efficient and reliable way. EASA  eRules  is a comprehensive, single system for structuring, sharing, and storing of rules. It is the single, easy-access online database for all aviation safety rules applicable to persons and  organisations  subject to Basic Regulation (Regulation (EU) 2018/1139). The  Easy Access Rules (EAR) are the output of the  eRules  project. The EAR books are consolidated versions of those rules, combining EU regulations with the related EASA Executive Director (ED) decisions in an easy-to-read format with advanced navigation features through links and bookmarks. The EAR books are regularly updated, following the adoption of an official publication. The  EAR books are available: in PDF  format; as dynamic online publications (online format) with a wide range of functionalities, such as filters to obtain regulatory material tailored to one’s needs, a search function through the table of contents to quickly access the relevant sections, and easy navigation for",
+        "metadata": {
+          "sdt-id": "1283452962",
+          "source-title": "EASA eRules",
+          "ERulesId": "ERULES-1963177438-22573",
+          "Domain": "",
+          "ActivityType": "",
+          "AircraftUse": "",
+          "AircraftCategory": "",
+          "AmendedBy": "",
+          "ApplicabilityDate": "",
+          "EntryIntoForceDate": "",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "",
+          "RegulatedEntity": "",
+          "RegulatorySource": "",
+          "RegulatorySubject": "",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "through the table of contents to quickly access the relevant sections, and easy navigation for computers, tablets, and mobiles; and in XML (machine-readable ) format that can be easily processed and automated by recipients, producing output that is compatible and can be  synchronised  with local applications, search databases, etc. The  EASA  eRules  system is developed and implemented in close cooperation with the Member States and aviation industry to ensure that all its capabilities are relevant and effective. Published  September 2025 Copyright notice © European Union, 1998-2024 Unless otherwise specified , you can re-use the legal documents published in EUR-Lex for commercial or non-commercial purposes […] ('© European Union,  http://eur-lex.europa.eu , 1998-2024')   .",
+        "metadata": {
+          "sdt-id": "1283452962",
+          "source-title": "EASA eRules",
+          "ERulesId": "ERULES-1963177438-22573",
+          "Domain": "",
+          "ActivityType": "",
+          "AircraftUse": "",
+          "AircraftCategory": "",
+          "AmendedBy": "",
+          "ApplicabilityDate": "",
+          "EntryIntoForceDate": "",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "",
+          "RegulatedEntity": "",
+          "RegulatorySource": "",
+          "RegulatorySubject": "",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "Disclaimer This document is issued by the European Union Aviation Safety Agency (referred to as both ‘EASA’ and ‘the Agency’) to provide its stakeholders with an updated, consolidated, and easy-to-read publication. It has been prepared by putting together the officially published EU regulations with the related EASA acceptable means of compliance (AMC) and guidance material (GM) (including their amendments) adopted so far. However, this document is not an official publication, and EASA accepts no liability for damage of any kind resulting from the risks inherent in its use.",
+        "metadata": {
+          "sdt-id": "393605539",
+          "source-title": "Disclaimer",
+          "ERulesId": "ERULES-1963177438-1043",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "",
+          "AircraftUse": "",
+          "AircraftCategory": "",
+          "AmendedBy": "",
+          "ApplicabilityDate": "",
+          "EntryIntoForceDate": "",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "",
+          "RegulatedEntity": "",
+          "RegulatorySource": "",
+          "RegulatorySubject": "",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "List of  revisions Published Reason for revision January 2017 First Easy Access Rules document powered by eRules . June 2017 To  incorporate  ED Decision 2017/016/R   amend ing   Appendix I to AMC to Part-66  ‘Aircraft type ratings for Part-66  aircraft maintenance licences’. April  2019 To incorporate amending  Regulation (EU) 2018/1142 ,  and  ED Decision 2019/ 009 /R  introducing AMC/GM to the cover regulation   and amending AMC/GM to Part-M, Part-145, Part-66, Part-147 and Part-T. June 2020 To incorporate the following amending regulations: Regulation (EU) 2019/1383  introducing in particular Part ML (Annex Vb), Part-CAMO (Annex Vc) and Part-CAO (Annex Vd) ; Corrigendum to Regulation (EU) 2019/1383 Regulation (EU) 2019/1384   Regulation (EU) 2020/270 To incorporate the following ED Decisions: ED Decision 2019/024/R   amending Appendix I to AMC to Part-66 ‘Aircraft type ratings for Part-66 aircraft maintenance licences’. ED Decision 2020/002/R  amending AMC/GM to Part-M, Part-145, Part-66, Part-147, Part-T and to the cover regulation and introducing AMC/GM to Part-ML, Part-CAMO and Part-CAO February 2021 To incorporate amending  Regulation (EU) 2020/1159   as regards the",
+        "metadata": {
+          "sdt-id": "-880713838",
+          "source-title": "List of revisions",
+          "ERulesId": "ERULES-1963177438-2868",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "",
+          "AircraftUse": "",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA);Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "",
+          "ApplicabilityDate": "",
+          "EntryIntoForceDate": "",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "",
+          "RegulatedEntity": "",
+          "RegulatorySource": "",
+          "RegulatorySubject": "Part-M;Part-145;Part-66;Part-147;Part-T;Cover regulation;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "and Part-CAO February 2021 To incorporate amending  Regulation (EU) 2020/1159   as regards the introduction of new additional airworthiness requirements . To incorporate the related  ED Decision 2020/023/R . July 2021 To incorporate amending  Regulation (EU) 2021/700  as regards the maintenance data and the installation of certain aircraft components during maintenance. To incorporate the related  ED Decision 2021/009/R . September   2022 To incorporate amending  Regulation (EU) 2022/410  as regards  the continuing airworthiness management in a single air carrier business grouping . To incorporate the related  ED Decision 2022/ 017 /R . To withdraw the provisions no longer applicable after 18 May 2022 pursuant to  Regulation (EU) 2021/700  and related  ED Decision 2021/009/R . October 2022 (Advance revision) To incorporate amending  Regulation (EU) 2021/1963  as regards   safety management systems in maintenance organisations . To incorporate the related  ED Decision 2022/011/R . December 2022 To incorporate  Corrigendum to Regulation (EU) 2019/1383 (OJ L 297/83 of 17.11.2022) . To  delete erroneous content (points 5 and 6  wrongly incorporated ) in AMC1 145.A.30(d) of the advance",
+        "metadata": {
+          "sdt-id": "-880713838",
+          "source-title": "List of revisions",
+          "ERulesId": "ERULES-1963177438-2868",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "",
+          "AircraftUse": "",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA);Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "",
+          "ApplicabilityDate": "",
+          "EntryIntoForceDate": "",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "",
+          "RegulatedEntity": "",
+          "RegulatorySource": "",
+          "RegulatorySubject": "Part-M;Part-145;Part-66;Part-147;Part-T;Cover regulation;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      }
+    ]
+  }
+}

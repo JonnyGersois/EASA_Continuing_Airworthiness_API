@@ -1,0 +1,139 @@
+{
+  "query": "MEL",
+  "response": {
+    "category": "continuing_airworthiness",
+    "language": "en",
+    "results": [
+      {
+        "text": "airworthiness record system, with special attention to the options of  M.A.305   and   M.A.306 .  For that purpose, the paragraphs   M.A.305  and  M.A.306   may be quoted or further explained.) (2) Instructions for use (This paragraph should provide instructions for using the aircraft technical log and/or continuing airworthiness record system. It should emphasise the respective responsibilities of the maintenance personnel and operating crew. Samples of the technical log and/or continuing airworthiness record system should be included in Part 5 ‘Appendices’ in order to provide enough detailed instructions.) (3) Aircraft technical log approval (This paragraph should explain who is responsible for submitting the aircraft technical log, and any subsequent amendment thereto, to the competent authority for approval and what is the procedure to be followed.) b) MEL application (The MEL is a document not controlled by the CAMO and the decision of whether accepting or not the operation with a defect deferred in accordance with the MEL is normally the responsibility of the operating crew. This paragraph should explain in sufficient detail the MEL application procedure, because the MEL is",
+        "metadata": {
+          "sdt-id": "996123535",
+          "source-title": "Appendix V to AMC1 M.A.704 — Continuing airworthiness management exposition",
+          "ERulesId": "ERULES-1963177438-1033",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "Continuing airworthiness management;",
+          "AircraftUse": "Used by licensed air carrier (LAC);Used by private operator or for limited operations;",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA);Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "",
+          "ApplicabilityDate": "24 March, 2020",
+          "EntryIntoForceDate": "14 March, 2020",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "EU-registered;",
+          "RegulatedEntity": "Continuing airworthiness management organisation (CAMO);",
+          "RegulatorySource": "ED Decision 2020/002/R",
+          "RegulatorySubject": "Part-M;Part-M Subpart G;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "AMC to IR (Acceptable means of compliance to implementing rule);",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "paragraph should explain in sufficient detail the MEL application procedure, because the MEL is a tool that the personnel involved in continuing airworthiness and maintenance have to be familiar with in order to ensure proper and efficient communication with the crew in case of a defect rectification to be deferred.) (This paragraph does not apply to those types of aircraft that do not have an MEL.) (1) General (This paragraph should explain broadly what an MEL document is. The information could be extracted from the aircraft flight manual.) (2) MEL categories (Where an owner/operator uses a classification system placing a time constraint on the rectification of defects, it should be explained here what are the general  principles of such a system. It is essential for the personnel involved in continuing airworthiness and maintenance to be familiar with it for the management of the MEL’s deferred defect rectification.) (3) Application (This paragraph should explain how the continuing airworthiness and maintenance personnel make the flight crew aware of an MEL limitation. This should refer to the technical log procedures.) (4) Acceptance by the crew  (This paragraph should explain",
+        "metadata": {
+          "sdt-id": "996123535",
+          "source-title": "Appendix V to AMC1 M.A.704 — Continuing airworthiness management exposition",
+          "ERulesId": "ERULES-1963177438-1033",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "Continuing airworthiness management;",
+          "AircraftUse": "Used by licensed air carrier (LAC);Used by private operator or for limited operations;",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA);Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "",
+          "ApplicabilityDate": "24 March, 2020",
+          "EntryIntoForceDate": "14 March, 2020",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "EU-registered;",
+          "RegulatedEntity": "Continuing airworthiness management organisation (CAMO);",
+          "RegulatorySource": "ED Decision 2020/002/R",
+          "RegulatorySubject": "Part-M;Part-M Subpart G;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "AMC to IR (Acceptable means of compliance to implementing rule);",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "refer to the technical log procedures.) (4) Acceptance by the crew  (This paragraph should explain how the crew notifies their acceptance or non-acceptance of the MEL deferment in the technical log.) (5) Management of the MEL time limits (Once a technical limitation is accepted by the crew, the defect must be rectified within the time limit specified in the MEL. There should be a system to ensure that the defect will actually be rectified before that time limit. This system could be the aircraft technical log for those (small) operators that use it as a planning document, or a specific follow-up system where control of the maintenance time limit is ensured by other means such as data processed planning systems.) (6) MEL time limitation overrun (The competent authority may allow the owner/operator to overrun the MEL time limitation under specific conditions. Where applicable, this paragraph should describe the specific duties and responsibilities with regard to controlling these extensions.)  1.2 Aircraft maintenance programme — development and amendment a) General (This introductory paragraph should recall that the purpose of a maintenance programme is to provide maintenance",
+        "metadata": {
+          "sdt-id": "996123535",
+          "source-title": "Appendix V to AMC1 M.A.704 — Continuing airworthiness management exposition",
+          "ERulesId": "ERULES-1963177438-1033",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "Continuing airworthiness management;",
+          "AircraftUse": "Used by licensed air carrier (LAC);Used by private operator or for limited operations;",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA);Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "",
+          "ApplicabilityDate": "24 March, 2020",
+          "EntryIntoForceDate": "14 March, 2020",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "EU-registered;",
+          "RegulatedEntity": "Continuing airworthiness management organisation (CAMO);",
+          "RegulatorySource": "ED Decision 2020/002/R",
+          "RegulatorySubject": "Part-M;Part-M Subpart G;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "AMC to IR (Acceptable means of compliance to implementing rule);",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "as relevant to the  particular aircraft  type. The selection of tasks should give precedence to tasks which are critical and complex in terms of: difficulty to execute; interpretation of the maintenance procedures / work instructions; specific tools and equipment; coordination among maintenance staff (teamwork); human factors (accessibility, human–machine interface (HMI), etc.); safety impact on the aircraft and the crew. Removal and installation tasks include the final confirmation test, if required. Credit may be given for similar tasks between ATA systems (e.g. pneumatic valves in ATA 21, 30 and 36), but this should be kept to a minimum. Some tasks may be performed on another aircraft type as long as both the system and the task are similar. The following table provides an acceptable method of selection of OJT tasks for B1 and B2 AML categories, per ATA chapter or sub-chapters, as required by point 6.2(e) of Appendix III to Annex III. OJT TASK SELECTION ATA Chapters B1 B2 INS FOT SGH R/I MEL TS INS FOT SGH R/I MEL TS Requirements: % of task categories 75 % 50 % 50 % 50 % 25 % 25 % 75 % 50 % 50 % 50 % 25 % 25 % Introduction subjects:                         05 Time limits /",
+        "metadata": {
+          "sdt-id": "1224733658",
+          "source-title": "Appendix II to AMC to Annex III — Aircraft Type Practical Experience and On-the-Job Training - List of Tasks",
+          "ERulesId": "ERULES-1963177438-677",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "Licensing;Training;",
+          "AircraftUse": "Used by licensed air carrier (LAC);Used by private operator or for limited operations;Used for commercial operations other than by licensed air carrier (LAC), or commercial approved training organisation (ATO);",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA);Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "",
+          "ApplicabilityDate": "12 June, 2024",
+          "EntryIntoForceDate": "3 November, 2023",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "On the job training (OJT); Type examination;",
+          "RegistryState": "",
+          "RegulatedEntity": "Competent authority;Approved maintenance organisation (AMO);",
+          "RegulatorySource": "ED Decision 2023/019/R",
+          "RegulatorySubject": "Part-66;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "AMC to IR (Acceptable means of compliance to implementing rule);",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "where these cannot be fully explained by theoretical training alone. Although the list details the minimum practical training subjects, other items may be added where applicable to the  particular aircraft  type. Tasks to be completed shall be representative of the aircraft and systems both in complexity and in the technical input required to complete that task. While relatively simple tasks may be included, other more complex tasks shall also be incorporated and undertaken as appropriate to the aircraft type. If it exists, the minimum list of practical tasks of the operational suitability data (OSD), established in accordance with Regulation (EU) No 748/2012, shall be part of the practical elements to be selected. Glossary of the table: LOC: Location; FOT: Functional/Operational Test; SGH: Service and Ground Handling; R/I: Removal/Installation; MEL: Minimum Equipment List; TS:  TroubleShooting . Chapters B1/B2 B1 B2 LOC FOT SGH R/I MEL TS FOT SGH R/I MEL TS Introduction module: 5 Time limits/maintenance checks X/X — — — — — — — — — — 6 Dimensions/Areas  (MTOM, etc.) X/X — — — — — — — — — — 7 Lifting and Shoring X/X — — — — — — — — — — 8 Levelling and weighing X/X — X — — — — X —",
+        "metadata": {
+          "sdt-id": "1757183140",
+          "source-title": "3.2. Practical element",
+          "ERulesId": "ERULES-1963177438-614",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "Training;",
+          "AircraftUse": "Used by licensed air carrier (LAC);Used by private operator or for limited operations;",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA);Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "",
+          "ApplicabilityDate": "12 June, 2024",
+          "EntryIntoForceDate": "12 June, 2023",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "Type training;",
+          "RegistryState": "",
+          "RegulatedEntity": "Competent authority;Maintenance training organisation;Aircraft maintenance licence (AML) holder;",
+          "RegulatorySource": "Regulation (EU) 2023/989",
+          "RegulatorySubject": "Part-66;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "IR (Implementing rule);",
+          "ParentIR": "3. Aircraft type training standard",
+          "EASACategory": ""
+        }
+      }
+    ]
+  }
+}

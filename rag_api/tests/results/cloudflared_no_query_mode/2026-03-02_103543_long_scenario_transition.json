@@ -1,0 +1,139 @@
+{
+  "query": "Explain the responsibilities of the CAMO when an aircraft transitions between operators and the maintenance programme changes.",
+  "response": {
+    "category": "continuing_airworthiness",
+    "language": "en",
+    "results": [
+      {
+        "text": "and repairs. (d) Maintenance a copy of the work packages requested by the CAMO including details of any bridging check to ensure all the necessary maintenance has been carried out. (e) Aircraft  maintenance   check flight a copy of the  maintenance   check flight report.",
+        "metadata": {
+          "sdt-id": "1660684068",
+          "source-title": "AMC M.A.904(b) Airworthiness review of aircraft imported into the EU",
+          "ERulesId": "ERULES-1963177438-969",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "Airworthiness review certificate (ARC);",
+          "AircraftUse": "Used by licensed air carrier (LAC);Used by private operator or for limited operations;Used for commercial operations other than by licensed air carrier (LAC), or commercial approved training organisation (ATO);",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA);Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "Amendment 3;",
+          "ApplicabilityDate": "21 October, 2023",
+          "EntryIntoForceDate": "21 October, 2023",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "Airworthiness directive (AD);",
+          "RegistryState": "EU-registered;",
+          "RegulatedEntity": "Approved maintenance organisation (AMO);Continuing airworthiness management organisation (CAMO);",
+          "RegulatorySource": "ED Decision 2023/013/R",
+          "RegulatorySubject": "Part-M;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "AMC to IR (Acceptable means of compliance to implementing rule);",
+          "ParentIR": "M.A.904 Airworthiness review of aircraft imported into the Union",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "that the CAMO has contracted a maintenance organisation should not prevent it from checking at the maintenance facilities on any aspect of the contracted work to fulfil its responsibility for the airworthiness of the aircraft. (e) The contract between the CAMO and the maintenance organisation(s) should specify in detail the responsibilities and the work to be performed by each party. (f) Both the specification of work and the assignment of responsibilities should be clear, unambiguous and sufficiently detailed to ensure that no misunderstanding arises between the parties concerned that could result in a situation where work that has an effect on the airworthiness or serviceability of aircraft is not or will not be properly performed. (g) Special attention should be paid to procedures and responsibilities to ensure that all maintenance work is performed, service bulletins are analysed, and decisions are taken on their accomplishment, airworthiness directives are accomplished on time and that all work, including non-mandatory modifications, is carried out to approved or declared (in accordance with Part 21 Light Subpart C) data and to the latest standards . (h) Appendix IV to AMC1",
+        "metadata": {
+          "sdt-id": "761081420",
+          "source-title": "AMC1 CAMO.A.315(c) Continuing airworthiness management",
+          "ERulesId": "ERULES-1963177438-16443",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "",
+          "AircraftUse": "",
+          "AircraftCategory": "",
+          "AmendedBy": "",
+          "ApplicabilityDate": "21 October, 2023",
+          "EntryIntoForceDate": "21 October, 2023",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "",
+          "RegulatedEntity": "",
+          "RegulatorySource": "ED Decision 2023/013/R",
+          "RegulatorySubject": "Part-CAMO;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "AMC to IR (Acceptable means of compliance to implementing rule);",
+          "ParentIR": "CAMO.A.315 Continuing airworthiness management",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "to this list, should be included in the CAME. (b) This contract should not preclude the CAMO from ensuring that all maintenance is performed by appropriately approved organisations which comply with  M.A.201  or  ML.A.201 . Typical arrangements are the following: Component maintenance: The CAMO may find it more appropriate to have a primary contractor (the secondary operator/CAMO) dispatching the components to appropriately approved organisations rather than sending themselves different types of components to various maintenance organisations approved under Part-145. The benefit for the CAMO is that the management of maintenance is simplified by having a single point of contact for component maintenance. The CAMO remains responsible for ensuring that all maintenance is performed by maintenance organisations approved under Part-145 and in accordance with appropriate maintenance data. Aircraft, engine and component maintenance: The CAMO may wish to have a maintenance contract with a secondary operator/CAMO not approved as maintenance organisation for the same type of aircraft. A typical case is that of a dry-leased aircraft between operators where the parties, for consistency or",
+        "metadata": {
+          "sdt-id": "679115408",
+          "source-title": "AMC2 CAMO.A.315(c) Continuing airworthiness management",
+          "ERulesId": "ERULES-1963177438-16410",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "",
+          "AircraftUse": "",
+          "AircraftCategory": "",
+          "AmendedBy": "",
+          "ApplicabilityDate": "24 March, 2020",
+          "EntryIntoForceDate": "14 March, 2020",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "",
+          "RegulatedEntity": "",
+          "RegulatorySource": "ED Decision 2020/002/R",
+          "RegulatorySubject": "Part-CAMO;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "AMC to IR (Acceptable means of compliance to implementing rule);",
+          "ParentIR": "CAMO.A.315 Continuing airworthiness management",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "AMC1 M.A.708(c) Continuing airworthiness management ED Decision 2020/002 /R 1. In case of complex motor-powered aircraft, aircraft used for CAT operations, aircraft used for commercial specialised operations and aircraft used by commercial ATO, the provisions of  M.A.201  establish that a CAMO is required. This CAMO is in charge of the continuing airworthiness management and this includes the tasks specified in  M.A.301  points (2), (3), (5) and (6). If the CAMO does not hold the appropriate maintenance organisation approval, then the CAMO should conclude a contract with the appropriate organisation(s). 2. The CAMO bears the responsibility for the airworthy condition of the aircraft for which it performs the continuing airworthiness management. Thus, it should be satisfied before the intended flight that all required maintenance has been properly carried out. 3. The CAMO should agree with the operator on the process to select a maintenance organisation before concluding any contract with a maintenance organisation. 4. The fact that the CAMO has contracted a maintenance organisation approved under  Subpart F  or  Part-145  should not prevent it from checking at the maintenance",
+        "metadata": {
+          "sdt-id": "-2006003894",
+          "source-title": "AMC1 M.A.708(c) Continuing airworthiness management",
+          "ERulesId": "ERULES-1963177438-926",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "Continuing airworthiness management;Maintenance;",
+          "AircraftUse": "Used by licensed air carrier (LAC);Used by private operator or for limited operations;Used for commercial operations other than by licensed air carrier (LAC), or commercial approved training organisation (ATO);",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA);Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "Amendment 3;",
+          "ApplicabilityDate": "24 March, 2020",
+          "EntryIntoForceDate": "14 March, 2020",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "Contract; Airworthiness directive (AD);",
+          "RegistryState": "EU-registered;",
+          "RegulatedEntity": "Continuing airworthiness management organisation (CAMO);",
+          "RegulatorySource": "ED Decision 2020/002/R",
+          "RegulatorySubject": "Part-M;Part-M Subpart G;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "AMC to IR (Acceptable means of compliance to implementing rule);",
+          "ParentIR": "M.A.708 Continuing airworthiness management",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "not preclude the CAMO from ensuring that all maintenance is performed by appropriately approved organisations which comply with the  M.A.201  continuing airworthiness responsibility requirements. Typical examples of such arrangements are the following: Component maintenance: The CAMO may find it more appropriate to have a primary contractor (the secondary operator/CAMO) dispatching the components to appropriately approved organisations rather than sending themselves different types of components to various maintenance organisations approved under  Part-145 . The benefit for the CAMO is that the management of maintenance is simplified by having a single point of contact for component maintenance. The CAMO remains responsible for ensuring that all maintenance is performed by maintenance organisations approved under  Part-145  and in accordance with the approved standards. Aircraft, engine and component maintenance: The CAMO may wish to have a maintenance contract with a secondary operator/CAMO not approved under Part-145 for the same type of aircraft. A typical case is that of a dry-leased aeroplane between operators where the parties, for consistency or continuity reasons",
+        "metadata": {
+          "sdt-id": "-2036434557",
+          "source-title": "AMC2 M.A.708(c) Continuing airworthiness management",
+          "ERulesId": "ERULES-1963177438-927",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "Continuing airworthiness management;Maintenance;",
+          "AircraftUse": "Used by licensed air carrier (LAC);Used by private operator or for limited operations;Used for commercial operations other than by licensed air carrier (LAC), or commercial approved training organisation (ATO);",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA);Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "",
+          "ApplicabilityDate": "25 August, 2016",
+          "EntryIntoForceDate": "13 July, 2016",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "Contract",
+          "RegistryState": "EU-registered;",
+          "RegulatedEntity": "Continuing airworthiness management organisation (CAMO);",
+          "RegulatorySource": "ED Decision 2016/011/R",
+          "RegulatorySubject": "Part-M;Part-M Subpart G;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "AMC to IR (Acceptable means of compliance to implementing rule);",
+          "ParentIR": "M.A.708 Continuing airworthiness management",
+          "EASACategory": ""
+        }
+      }
+    ]
+  }
+}

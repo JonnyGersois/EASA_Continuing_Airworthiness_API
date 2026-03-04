@@ -1,0 +1,139 @@
+{
+  "query": "requirements for deferred defects under MEL",
+  "response": {
+    "category": "continuing_airworthiness",
+    "language": "en",
+    "results": [
+      {
+        "text": "a hazardous situation. Especially emergency equipment needs attention during this inspection. 1. Check permits & approvals required for type of operation. 2. Check for the presence and serviceability of equipment required by operational approvals. 3. Check safety equipment, check that emergency equipment is readily accessible. Reference documents: EASA  M.A.201(a)(2) Part-21 Subpart I Part 21 Light Subpart I Part-CAT, Part-NCC, Part-NCO, Part-SPO Subpart D ‘Instruments, Data and Equipment’. B.6 Defect management Defect management requires a system whereby information on faults, malfunctions, defects and other occurrences that cause or might cause adverse effects on the continuing airworthiness of the aircraft is captured. This system should be properly documented. It includes, amongst others, the MEL system, the CDL system and deferred defects management. Supporting information Typical inspection items This KRE addresses the effectiveness of defect management, it should also consider defects found during the physical inspection. 1. Check that the deferred defects have been identified, recorded, and rectified/deferred in accordance with approved procedures and within approved time",
+        "metadata": {
+          "sdt-id": "-1876644984",
+          "source-title": "Appendix III to GM1 M.B.303(b) — KEY RISK ELEMENTS",
+          "ERulesId": "ERULES-1963177438-1031",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "Aircraft continuing airworthiness monitoring (ACAM);",
+          "AircraftUse": "Used by licensed air carrier (LAC);Used by private operator or for limited operations;",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA);Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "",
+          "ApplicabilityDate": "21 October, 2023",
+          "EntryIntoForceDate": "21 October, 2023",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "Survey; Airworthiness limitations section (ALS); Airworthiness directive (AD); Aircraft flight manual (AFM); Aircraft maintenance programme (AMP); Occurrence reporting;",
+          "RegistryState": "EU-registered;",
+          "RegulatedEntity": "Competent authority;",
+          "RegulatorySource": "ED Decision 2023/013/R",
+          "RegulatorySubject": "Part-M;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "GM to IR (Guidance material to implementing rule);",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "and to provide a continuous analysis of the effectiveness of the CAMO defect control system in use. The system should provide for: (a) significant incidents and defects: monitor incidents and defects that have occurred in flight and defects found during maintenance and overhaul, highlighting any that appear significant in their own right. (b) repetitive incidents and defects: monitor on a continuous basis defects occurring in flight and defects found during maintenance and overhaul, highlighting any that are repetitive. (c) deferred and carried forward defects: Monitor on a continuous basis deferred and carried forward defects. Deferred defects are defined as those defects reported in operational service which are deferred for later rectification. Carried forward defects are defined as those defects arising during maintenance which are carried forward for rectification at a later maintenance input. (d) unscheduled removals and system performance: analyse unscheduled component removals and the performance of aircraft systems for use as part of the maintenance programme efficiency.",
+        "metadata": {
+          "sdt-id": "-1697218587",
+          "source-title": "AMC M.A.301(b) Continuing airworthiness tasks",
+          "ERulesId": "ERULES-1963177438-832",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "Continuing airworthiness management;Aircraft maintenance programme (AMP);",
+          "AircraftUse": "Used by licensed air carrier (LAC);Used by private operator or for limited operations;Used for commercial operations other than by licensed air carrier (LAC), or commercial approved training organisation (ATO);",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA);Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "",
+          "ApplicabilityDate": "24 March 2020",
+          "EntryIntoForceDate": "14 March 2020",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "Minimum equipment list (MEL); Exposition;",
+          "RegistryState": "EU-registered;",
+          "RegulatedEntity": "Aircraft operator;Continuing airworthiness management organisation (CAMO);",
+          "RegulatorySource": "ED Decision 2020/002/R",
+          "RegulatorySubject": "Part-M;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "AMC to IR (Acceptable means of compliance to implementing rule);",
+          "ParentIR": "M.A.301 Continuing airworthiness tasks",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "AMC M.A.403(d) Aircraft defects ED Decision 2015/029/R All deferred defects should be made known to the pilot/flight crew, whenever possible, prior to their arrival at the aircraft. Deferred defects should be transferred on to worksheets at the next appropriate maintenance check, and any deferred defect which is not rectified during the maintenance check, should be re-entered on to a new deferred defect record sheet. The original date of the defect should be retained. The necessary components or parts needed for the rectification of defects should be made available or ordered on a priority basis, and fitted at the earliest opportunity.",
+        "metadata": {
+          "sdt-id": "2077814160",
+          "source-title": "AMC M.A.403(d) Aircraft defects",
+          "ERulesId": "ERULES-1963177438-866",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "Maintenance;",
+          "AircraftUse": "Used by licensed air carrier (LAC);Used by private operator or for limited operations;Used for commercial operations other than by licensed air carrier (LAC), or commercial approved training organisation (ATO);",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA);Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "",
+          "ApplicabilityDate": "18 December, 2015",
+          "EntryIntoForceDate": "18 December, 2015",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "Record;",
+          "RegistryState": "EU-registered;",
+          "RegulatedEntity": "Approved maintenance organisation (AMO);Certifying staff;",
+          "RegulatorySource": "ED Decision 2015/029/R",
+          "RegulatorySubject": "Part-M;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "AMC to IR (Acceptable means of compliance to implementing rule);",
+          "ParentIR": "M.A.403 Aircraft defects",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "airworthiness record system, with special attention to the options of  M.A.305   and   M.A.306 .  For that purpose, the paragraphs   M.A.305  and  M.A.306   may be quoted or further explained.) (2) Instructions for use (This paragraph should provide instructions for using the aircraft technical log and/or continuing airworthiness record system. It should emphasise the respective responsibilities of the maintenance personnel and operating crew. Samples of the technical log and/or continuing airworthiness record system should be included in Part 5 ‘Appendices’ in order to provide enough detailed instructions.) (3) Aircraft technical log approval (This paragraph should explain who is responsible for submitting the aircraft technical log, and any subsequent amendment thereto, to the competent authority for approval and what is the procedure to be followed.) b) MEL application (The MEL is a document not controlled by the CAMO and the decision of whether accepting or not the operation with a defect deferred in accordance with the MEL is normally the responsibility of the operating crew. This paragraph should explain in sufficient detail the MEL application procedure, because the MEL is",
+        "metadata": {
+          "sdt-id": "996123535",
+          "source-title": "Appendix V to AMC1 M.A.704 — Continuing airworthiness management exposition",
+          "ERulesId": "ERULES-1963177438-1033",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "Continuing airworthiness management;",
+          "AircraftUse": "Used by licensed air carrier (LAC);Used by private operator or for limited operations;",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA);Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "",
+          "ApplicabilityDate": "24 March, 2020",
+          "EntryIntoForceDate": "14 March, 2020",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "EU-registered;",
+          "RegulatedEntity": "Continuing airworthiness management organisation (CAMO);",
+          "RegulatorySource": "ED Decision 2020/002/R",
+          "RegulatorySubject": "Part-M;Part-M Subpart G;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "AMC to IR (Acceptable means of compliance to implementing rule);",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "AMC1 ML.A. 40 3 (d)   Aircraft defects ED Decision 2020/002/R All deferred defects should be made known to the pilot/flight crew, whenever possible, prior to their arrival at the aircraft. Deferred defects should be listed on the current list of deferred maintenance ( ML.A.305(d)(6) ) and rectified at the next appropriate maintenance event and within the limit specified in the maintenance data. Any deferred defect that is not rectified during the next maintenance event, should be re-entered on the list of deferred maintenance and the original date of the defect should be retained.",
+        "metadata": {
+          "sdt-id": "-507767027",
+          "source-title": "AMC1 ML.A.403(d)  Aircraft defects",
+          "ERulesId": "ERULES-1963177438-15984",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "",
+          "AircraftUse": "",
+          "AircraftCategory": "",
+          "AmendedBy": "",
+          "ApplicabilityDate": "24 March, 2020",
+          "EntryIntoForceDate": "14 March, 2020",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "",
+          "RegulatedEntity": "",
+          "RegulatorySource": "ED Decision 2020/002/R",
+          "RegulatorySubject": "Part-ML;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "AMC to IR (Acceptable means of compliance to implementing rule);",
+          "ParentIR": "ML.A.403 Aircraft defects",
+          "EASACategory": ""
+        }
+      }
+    ]
+  }
+}

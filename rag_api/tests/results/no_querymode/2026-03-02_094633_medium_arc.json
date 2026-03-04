@@ -1,0 +1,139 @@
+{
+  "query": "who can issue an ARC",
+  "response": {
+    "category": "continuing_airworthiness",
+    "language": "en",
+    "results": [
+      {
+        "text": "100-h/annual inspection contained in the AMP, when holding: ( i ) a licence issued in accordance with Annex III (Part-66) rated for the corresponding aircraft or, if Annex III (Part-66) is not applicable to the particular aircraft, a national certifying-staff qualification valid for that  aircraft;   (ii) an authorisation issued by, alternatively: (A) the competent authority who issued the licence  issued in accordance with Annex  III (Part-66),  (B) if Annex  III (Part-66)   is not applicable, the competent authority responsible for the national certifying-staff qualification. Independent certifying staff holding a licence issued in acc ordance with Annex  III (Part-66), may perform airworthiness reviews and issue the ARC for aircraft registered in any Member State. However, independent certifying staff holding a national qualification shall only perform airworthiness reviews and issue the ARC for aircraft registered in the Member State responsible for the national qualification. ARCs issued by independent certifying staff holding a national qualification shall not benefit from mutual recognition when transferring the aircraft to another Member State. Whenever circumstances",
+        "metadata": {
+          "sdt-id": "1695334483",
+          "source-title": "ML.A.901 Aircraft airworthiness review",
+          "ERulesId": "ERULES-1963177438-14288",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "",
+          "AircraftUse": "",
+          "AircraftCategory": "",
+          "AmendedBy": "",
+          "ApplicabilityDate": "18 May, 2021",
+          "EntryIntoForceDate": "18 May, 2021",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "",
+          "RegulatedEntity": "",
+          "RegulatorySource": "Regulation (EU) 2021/700",
+          "RegulatorySubject": "Part-ML;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "IR (Implementing rule);",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "reviews in accordance with point  ML.A.903  of Annex  Vb  (Part-ML) and issue the related ARC. (d) Permit to fly A CAO with its principal place of business in one of the Member States, the approval of which includes the privileges referred to in point (c), may be approved to issue a permit to fly in accordance with point  (d) of point 21.A.711 of Annex  I (Part-21) to Regulation (EU) No 748/2012 for those aircraft for which it can issue the ARC when it attests conformity with the approved flight conditions, in accordance with an adequate procedure provided for in the CAE. (e) A CAO may be approved for one or more privileges.",
+        "metadata": {
+          "sdt-id": "2142595578",
+          "source-title": "CAO.A.095 Privileges of the organisation",
+          "ERulesId": "ERULES-1963177438-14364",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "",
+          "AircraftUse": "",
+          "AircraftCategory": "",
+          "AmendedBy": "",
+          "ApplicabilityDate": "24 March, 2020",
+          "EntryIntoForceDate": "18 March, 2020",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "",
+          "RegulatedEntity": "",
+          "RegulatorySource": "Regulation (EU) 2020/270",
+          "RegulatorySubject": "Part-CAO;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "IR (Implementing rule);",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "ML.B.304 Revocation, suspension and limitation Regulation (EU) 2019/1383 The competent authority shall: (a) suspend an ARC on reasonable grounds in the case of a potential safety threat; or (b) suspend or revoke an ARC pursuant to point (a) of point  ML.B.903 . The competent authority who issued the airworthiness review authorisation pursuant to point (c) of point  ML.A.9 04  for independent certifying staff shall revoke such authorisation if the holder shows poor performance of the airworthiness review or uses such authorisation in inappropriate manner.",
+        "metadata": {
+          "sdt-id": "-316430374",
+          "source-title": "ML.B.304 Revocation, suspension and limitation",
+          "ERulesId": "ERULES-1963177438-14302",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "",
+          "AircraftUse": "",
+          "AircraftCategory": "",
+          "AmendedBy": "",
+          "ApplicabilityDate": "24 March, 2020",
+          "EntryIntoForceDate": "24 September, 2019",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "",
+          "RegulatedEntity": "",
+          "RegulatorySource": "Regulation (EU) 2019/1383",
+          "RegulatorySubject": "Part-ML;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "IR (Implementing rule);",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "Regulation (EU) 2015/1536 (b) For licenced air carriers in accordance with Regulation (EC) No 1008/2008 the accountable manager referred to in point (a) shall be the person who also has corporate authority for ensuring that all the operations of the operator can be financed and carried out to the standard required for the issue of an air operator's certificate.",
+        "metadata": {
+          "sdt-id": "571915519",
+          "source-title": "M.A.706(b) Accountable manager — Licenced air carriers",
+          "ERulesId": "ERULES-1963177438-746",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "Continuing airworthiness management;",
+          "AircraftUse": "Used by licensed air carrier (LAC);",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA);Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "",
+          "ApplicabilityDate": "25 August, 2016",
+          "EntryIntoForceDate": "7 October, 2015",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "Management personnel; Air operator certificate (AOC);",
+          "RegistryState": "EU-registered;",
+          "RegulatedEntity": "Continuing airworthiness management organisation (CAMO);",
+          "RegulatorySource": "Regulation (EU) 2015/1536",
+          "RegulatorySubject": "Part-M;Part-M Subpart G;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "IR (Implementing rule);",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "the case of import of aircraft. This should include: communication with the competent authority of registry, additional items to be reviewed during the airworthiness review of the aircraft, specification of maintenance required to be carried out, etc.) 4.5 Recommendations to competent authorities for the issue of airworthiness review certificates (ARCs) (This paragraph should stipulate the communication procedures with the competent authorities in case of a recommendation for the issue of an airworthiness review certificate. In addition, the content of the recommendation should be described.) 4.6 Issue of airworthiness review certificates (ARCs) (This paragraph should set out the procedure for the issue of ARCs. It should address record-keeping, distribution of ARC copies, etc. The procedure should ensure that an ARC is issued only after an airworthiness review has been properly carried out.) 4.7 Airworthiness review records, responsibilities, retention and access (This paragraph should describe how records are kept, duration of record-keeping, location where records are stored, access to records, and responsibilities.) PART 4B — PERMIT TO FLY PROCEDURES 4B.1 Conformity with",
+        "metadata": {
+          "sdt-id": "996123535",
+          "source-title": "Appendix V to AMC1 M.A.704 — Continuing airworthiness management exposition",
+          "ERulesId": "ERULES-1963177438-1033",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "Continuing airworthiness management;",
+          "AircraftUse": "Used by licensed air carrier (LAC);Used by private operator or for limited operations;",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA);Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "",
+          "ApplicabilityDate": "24 March, 2020",
+          "EntryIntoForceDate": "14 March, 2020",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "EU-registered;",
+          "RegulatedEntity": "Continuing airworthiness management organisation (CAMO);",
+          "RegulatorySource": "ED Decision 2020/002/R",
+          "RegulatorySubject": "Part-M;Part-M Subpart G;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "AMC to IR (Acceptable means of compliance to implementing rule);",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      }
+    ]
+  }
+}

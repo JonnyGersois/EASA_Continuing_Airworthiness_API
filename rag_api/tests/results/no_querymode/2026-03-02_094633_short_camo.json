@@ -1,0 +1,139 @@
+{
+  "query": "Part-CAMO",
+  "response": {
+    "category": "continuing_airworthiness",
+    "language": "en",
+    "results": [
+      {
+        "text": "reference: Audit reference(s): The following  Part-CAMO  terms of approval are recommended for this organisation: Or, it is recommended that the  Part-CAMO  terms of approval specified in EASA Form 14 referenced ...................................................... be continued. Name of recommending competent authority inspector: Signature of recommending competent authority inspector: Competent authority office: Date of recommendation: EASA Form 13 -CAMO review: Date: *delete as appropriate",
+        "metadata": {
+          "sdt-id": "-1502542980",
+          "source-title": "Appendix V to AMC2 CAMO.B.310(c) — EASA Form 13-CAMO",
+          "ERulesId": "ERULES-1963177438-16394",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "",
+          "AircraftUse": "",
+          "AircraftCategory": "",
+          "AmendedBy": "",
+          "ApplicabilityDate": "24 March, 2020",
+          "EntryIntoForceDate": "14 March, 2020",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "",
+          "RegulatedEntity": "",
+          "RegulatorySource": "ED Decision 2020/002/R",
+          "RegulatorySubject": "Part-CAMO;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "AMC to IR (Acceptable means of compliance to implementing rule);",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "GM Articles 3 and 4 Continuing airworthiness requirements and approvals for organisations involved in the continuing airworthiness ED Decision 2020/002/R In accordance with Articles 3 and 4, as well as  M.A.201  and  ML.A.201 , the following table provides a summary of the applicability of the Annexes to Regulation (EU) No 1321/2014 related to continuing airworthiness requirements and organisations involved therein. Non-licenced air carrier Licenced air carrier Non-commercial Commercial Non-CMPA CMPA Non-CMPA CMPA Non-CMPA CMPA ‘Light’ Non-‘Light’ ‘Light’ Non-‘Light’ Part-M   (Annex I) N/A Part-M mandatory N/A Part-M mandatory Part-ML   (Annex  Vb ) Part-ML mandatory N/A Part-ML mandatory N/A Part-CAMO  (Annex  Vc ) Individual CAM or CAO-CAM or CAMO Part-CAMO mandatory CAO-CAM or CAMO Part-CAMO mandatory Part-CAO (Annex  Vd )  for CA management (CAO-CAM) N/A N/A for maintenance  (CAO-M) Individual maintenance or CAO-M or Part-145 N/A CAO-M or Part-145 N/A Part-145  (Annex II) Part-145 mandatory Part-145 mandatory",
+        "metadata": {
+          "sdt-id": "-354135553",
+          "source-title": "GM Articles 3 and 4 Continuing airworthiness requirements and approvals for organisations involved in the continuing airworthiness",
+          "ERulesId": "ERULES-1963177438-16812",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "",
+          "AircraftUse": "",
+          "AircraftCategory": "",
+          "AmendedBy": "",
+          "ApplicabilityDate": "24 March, 2020",
+          "EntryIntoForceDate": "14 March, 2020",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "",
+          "RegulatedEntity": "",
+          "RegulatorySource": "ED Decision 2020/002/R",
+          "RegulatorySubject": "Cover regulation;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "GM to IR (Guidance material to implementing rule);",
+          "ParentIR": "Article 3 Continuing airworthiness requirements",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "AMC T.B.702 Initial approval ED Decision 2016/011/R 1. The audit report  EASA Form 13T  should be used to record the audit performance and the  findings.  EASA Form 13T  may  be found in  Appendix II to AMC T.B.702 . 2. When the organisation is not approved under  Part-CAMO  for a particular aircraft type, then the organisation should apply for a change under  CAMO.A.130   to include that aircraft type in the scope of approval at the same time when it applies for approval under  Part-T Subpart G  to manage the continuing airworthiness of aircraft referred to in  T.B.101 . 3. When the organisation is already approved under  Part-CAMO  for a particular aircraft type, then the approval to manage the continuing airworthiness of aircraft referred to in  T.B.101  should be considered as a change that requires prior approval by the competent authority. The approval by the competent authority should be performed by approving the proposed amendments to the CAME.",
+        "metadata": {
+          "sdt-id": "-1263203561",
+          "source-title": "AMC T.B.702 Initial approval",
+          "ERulesId": "",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "Continuing airworthiness management;",
+          "AircraftUse": "Used by licensed air carrier (LAC);",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA); Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "",
+          "ApplicabilityDate": "24 March, 2020",
+          "EntryIntoForceDate": "14 March, 2020",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "Audit; Exposition;",
+          "RegistryState": "Non-EU registered;",
+          "RegulatedEntity": "Competent authority;",
+          "RegulatorySource": "ED Decision 2020/002/R",
+          "RegulatorySubject": "Part-T;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "Acceptable means of compliance (AMC);",
+          "ParentIR": "T.B.702 Initial certification procedure",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "List of  revisions Published Reason for revision January 2017 First Easy Access Rules document powered by eRules . June 2017 To  incorporate  ED Decision 2017/016/R   amend ing   Appendix I to AMC to Part-66  ‘Aircraft type ratings for Part-66  aircraft maintenance licences’. April  2019 To incorporate amending  Regulation (EU) 2018/1142 ,  and  ED Decision 2019/ 009 /R  introducing AMC/GM to the cover regulation   and amending AMC/GM to Part-M, Part-145, Part-66, Part-147 and Part-T. June 2020 To incorporate the following amending regulations: Regulation (EU) 2019/1383  introducing in particular Part ML (Annex Vb), Part-CAMO (Annex Vc) and Part-CAO (Annex Vd) ; Corrigendum to Regulation (EU) 2019/1383 Regulation (EU) 2019/1384   Regulation (EU) 2020/270 To incorporate the following ED Decisions: ED Decision 2019/024/R   amending Appendix I to AMC to Part-66 ‘Aircraft type ratings for Part-66 aircraft maintenance licences’. ED Decision 2020/002/R  amending AMC/GM to Part-M, Part-145, Part-66, Part-147, Part-T and to the cover regulation and introducing AMC/GM to Part-ML, Part-CAMO and Part-CAO February 2021 To incorporate amending  Regulation (EU) 2020/1159   as regards the",
+        "metadata": {
+          "sdt-id": "-880713838",
+          "source-title": "List of revisions",
+          "ERulesId": "ERULES-1963177438-2868",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "",
+          "AircraftUse": "",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA);Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "",
+          "ApplicabilityDate": "",
+          "EntryIntoForceDate": "",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "",
+          "RegulatedEntity": "",
+          "RegulatorySource": "",
+          "RegulatorySubject": "Part-M;Part-145;Part-66;Part-147;Part-T;Cover regulation;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "Changes 1158 GM1 CAMO.B.330 Changes 1159 CAMO.B.330A Changes to the information security management system 1159 CAMO.B.350 Findings and corrective actions 1159 CAMO.B.355 Suspension, limitation and revocation 1161 AMC1  CAMO.B.355 (c)   Suspension, limitation and revocation 1161 APPENDICES TO ANNEX Vc (Part-CAMO) 1161 Appendix I to Part-CAMO — Continuing Airworthiness Management Organisation Certificate – EASA Form 14 1161 AMC1 to Appendix I to Part-CAMO — Continuing Airworthiness Management Organisation Certificate 1163 APPENDICES TO AMC AND GM to ANNEX Vc (Part-CAMO) 1164 Appendix I to AMC1 CAMO.A.115 — EASA Form 2 1164 Appendix II to AMC1 CAMO.A.125(d)(3) — Subcontracting of continuing airworthiness management tasks 1164 Appendix III to AMC4 CAMO.A.305(g) — Fuel Tank Safety training 1169 Appendix IV to AMC1 CAMO.A.315(c) — Contracted maintenance 1169 Appendix V to AMC2 CAMO.B.310(c) — EASA Form 13-CAMO 1174 Annex Vd (Part-CAO) 1182 GENERAL 1182 CAO.1 General 1182 SECTION A — ORGANISATION REQUIREMENTS 1182 CAO.A.010 Scope 1182 CAO.A.015 Application 1182 AMC1 CAO.A.015   Application 1182 CAO.A.017 Means of compliance 1183 C AO.A. 0 20 Terms of approval 1183 GM1 CAO.A.020   Terms",
+        "metadata": {
+          "sdt-id": "1885529203",
+          "source-title": "",
+          "ERulesId": "ERULES-1963177438-14248",
+          "Domain": "",
+          "ActivityType": "",
+          "AircraftUse": "",
+          "AircraftCategory": "",
+          "AmendedBy": "",
+          "ApplicabilityDate": "",
+          "EntryIntoForceDate": "",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "",
+          "RegulatedEntity": "",
+          "RegulatorySource": "",
+          "RegulatorySubject": "",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      }
+    ]
+  }
+}

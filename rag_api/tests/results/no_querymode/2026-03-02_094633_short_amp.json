@@ -1,0 +1,139 @@
+{
+  "query": "AMP",
+  "response": {
+    "category": "continuing_airworthiness",
+    "language": "en",
+    "results": [
+      {
+        "text": "competent authority By a maintenance organisation*** or independent certifying staff*** or by the CAMO/CAO (-CAM)  (if contracted) or by the competent authority Sailplane Part-SAO Subpart-DEC Part-SAO   non-Subpart-DEC commercial ATO/DTO Non-ATO/DTO or non-commercial ATO/DTO Contract with CAMO/CAO   (-CAM) required? yes yes no* AMP The AMP document must be approved by the contracted CAMO/CAO(-CAM). If there is no CAMO/CAO(-CAM), the AMP must be declared by the owner. If there is a contracted CAMO/CAO(-CAM), the AMP must be approved by the CAMO/CAO(-CAM). If ML.A.302(e) conditions are met, producing an AMP document is not required. Maintenance By a maintenance organisation By a maintenance organisation or by independent certifying staff or pilot-owner** AR and ARC By a maintenance organisation*** or by the contracted CAMO/CAO(-CAM) or by the competent authority By a maintenance organisation*** or independent certifying staff*** or by the CAMO/CAO(-CAM) (if contracted) or by the competent authority Aircraft (other than balloons and sailplanes) non Part-NCO Part-NCO commercial ATO/DTO Non-ATO/DTO or non-commercial ATO/DTO Contract with CAMO/CAO   (-CAM)  required? yes yes no* AMP The",
+        "metadata": {
+          "sdt-id": "-1902801398",
+          "source-title": "GM1 ML.A.201  Responsibilities",
+          "ERulesId": "ERULES-1963177438-15961",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "",
+          "AircraftUse": "",
+          "AircraftCategory": "",
+          "AmendedBy": "",
+          "ApplicabilityDate": "24 March, 2020",
+          "EntryIntoForceDate": "14 March, 2020",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "",
+          "RegulatedEntity": "",
+          "RegulatorySource": "ED Decision 2020/002/R",
+          "RegulatorySubject": "Part-ML;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "GM to IR (Guidance material to implementing rule);",
+          "ParentIR": "ML.A.201 Responsibilities",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "or non-commercial ATO/DTO Contract with CAMO/CAO   (-CAM)  required? yes yes no* AMP The AMP document must be approved by the contracted CAMO/CAO (-CAM) . If there is no CAMO/CAO (-CAM) , the AMP must be declared by the owner. If there is a contracted CAMO/CAO (-CAM) , the AMP must be approved by the CAMO/CAO (-CAM) . If ML.A.302(e) conditions are met, producing an AMP document is not required. Maintenance By a maintenance organisation By a maintenance organisation or by independent certifying staff or the pilot-owner** AR and ARC By a maintenance organisation*** or by the contracted CAMO/CAO (-CAM)  or by the competent authority By a maintenance organisation*** or independent certifying staff*** or by the CAMO/CAO (-CAM)  (if contracted) or by the competent authority *:  A CAMO/CAO (-CAM)  is not required but the owner may decide to contract a CAMO/CAO (-CAM) . **:  in the limit of their privileges ***:  together with the 100-h/annual inspection",
+        "metadata": {
+          "sdt-id": "-1902801398",
+          "source-title": "GM1 ML.A.201  Responsibilities",
+          "ERulesId": "ERULES-1963177438-15961",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "",
+          "AircraftUse": "",
+          "AircraftCategory": "",
+          "AmendedBy": "",
+          "ApplicabilityDate": "24 March, 2020",
+          "EntryIntoForceDate": "14 March, 2020",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "",
+          "RegulatedEntity": "",
+          "RegulatorySource": "ED Decision 2020/002/R",
+          "RegulatorySubject": "Part-ML;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "GM to IR (Guidance material to implementing rule);",
+          "ParentIR": "ML.A.201 Responsibilities",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "GM1  CAMO.A.315( b)(1) Continuing airworthiness management ED Decision 2020/002/R AIRCRAFT MAINTENANCE PROGRAMME In accordance with  M.A.302  and  ML.A.302 , the CAMO requirement to ‘control’ the AMP includes in particular: ( i )  in  the case of aircraft complying with Part-ML, the approval of the AMP and its amendments;  (ii)  in  the case of aircraft complying with Part-M, the presentation of the AMP and its amendments to the competent authority for approval, unless the approval is covered by an indirect approval procedure in accordance with  M.A.302(c) .",
+        "metadata": {
+          "sdt-id": "857061185",
+          "source-title": "GM1 CAMO.A.315(b)(1) Continuing airworthiness management",
+          "ERulesId": "ERULES-1963177438-16346",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "",
+          "AircraftUse": "",
+          "AircraftCategory": "",
+          "AmendedBy": "",
+          "ApplicabilityDate": "24 March, 2020",
+          "EntryIntoForceDate": "14 March, 2020",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "",
+          "RegulatedEntity": "",
+          "RegulatorySource": "ED Decision 2020/002/R",
+          "RegulatorySubject": "Part-CAMO;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "GM to IR (Guidance material to implementing rule);",
+          "ParentIR": "CAMO.A.315 Continuing airworthiness management",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "(EU) No 748/2012, if  applicable; (3) the applicable provisions of Annex I (Part-26) to Regulation (EU)  2015/640 ; (e) By derogation to point (d), the owner or the organisation managing the continuing airworthiness of the aircraft may deviate from the instruction referred to in point (d)(2) and propose escalated intervals in the AMP, based on data obtained from sufficient reviews carried out in accordance with point (h). Indirect approval is not permitted for the escalation of safety-related tasks. The owner or the organisation managing the continuing airworthiness of the aircraft may also propose additional instructions in the AMP. (f) The AMP shall contain details of all maintenance to be carried out, including frequency and any specific tasks linked to the type and specificity of operations. (g) For complex motor-powered aircraft, when the AMP is based on maintenance steering group logic or on condition monitoring, the AMP shall include a reliability programme. (h) The AMP shall be subject to periodic reviews and be amended accordingly when necessary. Those reviews shall ensure that the AMP continues to be up to date and valid in light of the operating experience and",
+        "metadata": {
+          "sdt-id": "1474828391",
+          "source-title": "M.A.302 Aircraft maintenance programme",
+          "ERulesId": "ERULES-1963177438-694",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "Continuing airworthiness management;Aircraft maintenance programme (AMP);Airworthiness review certificate (ARC);Maintenance;",
+          "AircraftUse": "Used by licensed air carrier (LAC);Used by private operator or for limited operations;Used for commercial operations other than by licensed air carrier (LAC), or commercial approved training organisation (ATO);",
+          "AircraftCategory": "Complex motor-powered aircraft (CMPA);Non-complex motor-powered aircraft (non-CMPA);",
+          "AmendedBy": "",
+          "ApplicabilityDate": "12 June, 2023",
+          "EntryIntoForceDate": "12 June, 2023",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "Exposition; Maintenance data; Airworthiness directive (AD); Contract; Reliability programme; Pilot-owner maintenance; Airworthiness limitations section (ALS); Escalation; Minimum inspection programme;",
+          "RegistryState": "EU-registered;",
+          "RegulatedEntity": "Aircraft owner;Continuing airworthiness management organisation (CAMO);Approved maintenance organisation (AMO);",
+          "RegulatorySource": "Regulation (EU) 2023/989",
+          "RegulatorySubject": "Part-M;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "IR (Implementing rule);",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      },
+      {
+        "text": "CAO.A.075 Continuing-airworthiness management Regulation (EU) 2019/1383 (a) All continuing airworthiness management shall be carried out in accordance with the requirements of Subpart C of  Annex   I  (Part-M) or Subpart C of Annex   Vb (Part-ML), as applicable. (b) For every aircraft managed, the CAO shall: (1) develop and control the AMP for the aircraft managed and: (i) in the case o f aircraft complying with Annex   Vb (Part-ML), approve the AMP and its amendments, or (ii) in the case o f aircraft complying with Annex   I (Part-M), present the AMP and its amendments to the competent authority for approval, unless the approval is covered by an indirect approval procedure in accordance with point (c) o f point  M.A.302  of Annex   I (Part-M); (2) provide a copy of the AMP to the owner; (3) ensure that data used for any modification and repairs complies with points   M.A.304  or  ML.A.304 , as applicable; (4) ensure that all maintenance is performed in accordance with the AMP and released in accordance with Section A, Subpart H of Annex  I (Part-M), Section A of Annex   II (Part-145) o r Section A, Subpart H of Annex   Vb (Part-ML), as applicable; (5) ensure that all applicable",
+        "metadata": {
+          "sdt-id": "1863863722",
+          "source-title": "CAO.A.075 Continuing-airworthiness management",
+          "ERulesId": "",
+          "Domain": "Continuing airworthiness;",
+          "ActivityType": "",
+          "AircraftUse": "",
+          "AircraftCategory": "",
+          "AmendedBy": "",
+          "ApplicabilityDate": "24 March, 2020",
+          "EntryIntoForceDate": "24 September, 2019",
+          "EquivalentForeignRegulation": "",
+          "ICAOReference": "",
+          "Keywords": "",
+          "RegistryState": "",
+          "RegulatedEntity": "",
+          "RegulatorySource": "Regulation (EU) 2019/1383",
+          "RegulatorySubject": "Part-CAO;",
+          "TechnicalSubjectMatter": "",
+          "TypeOfContent": "IR (Implementing rule);",
+          "ParentIR": "",
+          "EASACategory": ""
+        }
+      }
+    ]
+  }
+}
