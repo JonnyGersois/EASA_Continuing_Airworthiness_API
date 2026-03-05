@@ -15,12 +15,12 @@ TEST_QUERIES = {
 
     # "medium_deferred_defects": "requirements for deferred defects under MEL",
     # "medium_arc": "who can issue an ARC",
-    "medium_camo_resp": "continuing airworthiness management responsibilities",
+    # "medium_camo_resp": "continuing airworthiness management responsibilities",
 
-    # "long_scenario_mel": (
-    #     "Under what conditions may an operator defer a defect under the MEL "
-    #     "when the aircraft is away from base and no certifying staff are available?"
-    # ),
+    "long_scenario_mel": (
+        "Under what conditions may an operator defer a defect under the MEL "
+        "when the aircraft is away from base and no certifying staff are available?"
+    ),
     # "long_scenario_transition": (
     #     "Explain the responsibilities of the CAMO when an aircraft transitions "
     #     "between operators and the maintenance programme changes."

@@ -11,3 +11,7 @@ __pycache__/
 
 # Local data (large files, vectorstores, etc.)
 data/
+vectorstores/
+
+# Test logs
+rag_api/tests/

@@ -15,6 +15,9 @@ BASE_VECTOR_DIR = "vectorstores"
 
 DEFAULT_CATEGORY = "continuing_airworthiness"
 DEFAULT_LANG = "en"
+EMBEDDINGS = HuggingFaceEmbeddings(
+    model_name="sentence-transformers/all-MiniLM-L6-v2"
+)
 
 
 # -----------------------------
@@ -137,9 +140,7 @@ def chunk_documents(docs, threshold=1200) -> list:
 # BUILD HYBRID RETRIEVER
 # -----------------------------
 def build_hybrid_retriever(docs, faiss_path, k=5) -> HybridRetriever:
-    embeddings = HuggingFaceEmbeddings(
-        model_name="sentence-transformers/all-MiniLM-L6-v2"
-    )
+    embeddings = EMBEDDINGS
 
     if os.path.exists(faiss_path):
         vectorstore = FAISS.load_local(
